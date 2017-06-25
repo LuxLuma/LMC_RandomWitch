@@ -65,7 +65,7 @@ public OnLibraryRemoved(const String:sName[])
 public Plugin:myinfo = 
 {
 	name = "LMC_RandomWitch",
-	author = "Ludastar (Armonic)",
+	author = "Lux",
 	description = "Adds a Random model to the witch LMC required",
 	version = PLUGIN_VERSION,
 	url = "https://forums.alliedmods.net/showthread.php?p=2449184#post2449184"
